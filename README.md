@@ -132,7 +132,6 @@ Best Fit line plot
 
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/40f4cf86-0c84-48d6-8340-52dcacc4b967" />
 
-
 <img width="379" height="99" alt="image" src="https://github.com/user-attachments/assets/4ea2c095-cd1a-43e0-95ff-d9fda2057bd0" />
 
 ### New Sample Data Prediction
