@@ -120,6 +120,7 @@ print(f'\nPrediction for x=120: {y_pred_new:.8f}')
 ### Dataset Information
 
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/61ef443e-9728-4b80-b3da-67a54cfbc1cb" />
+
 <img width="528" height="86" alt="image" src="https://github.com/user-attachments/assets/514e39b5-9abc-4c64-89c8-60bc414a16d5" />
 
 ### OUTPUT
@@ -130,6 +131,7 @@ Training Loss Vs Iteration Plot
 Best Fit line plot
 
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/40f4cf86-0c84-48d6-8340-52dcacc4b967" />
+
 <img width="379" height="99" alt="image" src="https://github.com/user-attachments/assets/4ea2c095-cd1a-43e0-95ff-d9fda2057bd0" />
 
 ### New Sample Data Prediction
